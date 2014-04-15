@@ -14,7 +14,4 @@ public class ChatRedis {
 	public static void  push(String Content){
 		jedis.lpush(pop.getProperties("db.name"), Content);
 	}
-	public static void main(String[] args){
-		
-	}
 }

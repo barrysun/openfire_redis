@@ -8,5 +8,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="lib/jasper-compiler.jar"/>
+	<classpathentry kind="lib" path="lib/jasper-runtime.jar"/>
+	<classpathentry kind="lib" path="lib/jedis-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/openfire.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
